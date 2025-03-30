@@ -11,7 +11,9 @@
   "author": "Artem Batyr",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^3.2.3",
-    "node-sass": "^6.0.1"
+    "sass": "^1.86.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
